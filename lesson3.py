@@ -5,7 +5,7 @@
 # получать и тд или же вернуться к старым версиям проекта)
 
 
-print("Hello world")
+# print("Hello world")
 
 # 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
 # fdsfsfdsf
